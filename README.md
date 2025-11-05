@@ -1,3 +1,4 @@
+commit changes
 # Bloxgen-style Starter (Safe Demo Generator)
 
 This is a minimal Next.js + Tailwind CSS starter scaffold that reproduces the look-and-feel of a marketing/landing site with a client-side **demo profile generator**. It does NOT interact with third-party platforms or create accounts — it's for legal demos and UI testing only.
